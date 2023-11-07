@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@types/jsonwebtoken": "^9.0.4",
+    "cloudinary": "^1.41.0",
+    "graphql-request": "^6.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "next-auth": "^4.24.4"
+  },
+  "devDependencies": {
+    "@grafbase/sdk": "^0.7.2"
+  }
+}
