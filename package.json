@@ -6,8 +6,5 @@
     "graphql-request": "^6.1.0",
     "jsonwebtoken": "^9.0.2",
     "next-auth": "^4.24.4"
-  },
-  "devDependencies": {
-    "@grafbase/sdk": "^0.7.2"
   }
 }
